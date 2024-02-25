@@ -1,4 +1,4 @@
-package Optionals;
+package optionals;
 
 import java.util.Optional;
 
